@@ -1,0 +1,11 @@
+.contact h1 {
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: -10px;
+}
+.contact p {
+  font-weight: 600;
+}
+.contact {
+  margin-bottom: 10px;
+}

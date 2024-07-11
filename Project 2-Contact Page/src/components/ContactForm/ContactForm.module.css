@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+}
+.top_button {
+  display: flex;
+  gap: 32px;
+}
+input {
+  min-width: 440px;
+  height: 50px;
+  padding: 0px 10px;
+}
+textarea {
+  min-width: 440px;
+  padding: 15px 10px;
+}
+.formContainer {
+  position: relative;
+  margin: 10px 0px;
+}
+.formContainer label {
+  position: absolute;
+  background-color: white;
+  top: -10px;
+  left: 10px;
+}
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.right img {
+  width: 608px;
+  height: 450px;
+}
+.output {
+  background-color: blue;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
